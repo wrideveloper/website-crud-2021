@@ -1,0 +1,31 @@
+body {
+    background-color: #F8F8F8;
+}
+
+.bg-blue {
+    background-color: #3C6786;
+}
+
+.search-button img {
+    width: 20px;    
+    padding-bottom: 3px;    
+}
+
+.card {
+    width: 340px;
+    height: 170px;
+}
+
+.card-button button {
+    width: 130px;              
+}
+
+.card-body img {
+    float: left;
+    width: 28px;
+    margin: 0 10px;
+}
+
+.modal-button {
+    width: 100px;
+}
