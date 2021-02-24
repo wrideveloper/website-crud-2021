@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #3C6786;
+    display: flex;
+    width: auto;
+    color: white;
+    font-weight: bold;
+    justify-content: space-between;
+    padding: 25px;
+    align-items: center;
+}
+
+.navbar-list{
+    display: flex;
+    list-style: none;
+}
+
+.navbar-item{
+    margin-right: 25px;
+}
+
+.header-img{
+    background-image: url("img/jumbotron.jpg");
+    height: 500px;
+    width: auto;
+}
+
+.header-text{
+    color: white;
+    text-align: center;
+    transform: translate(0%, -300px);
+}
+
+h1{
+    font: 48pt georgia;
+    font-weight: bolder;
+}
+
+.about{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.about-title{
+    text-align: center;
+}
+
+.about-img{
+    height: 400px;
+    width: 600px;
+}
+
+.about-text{
+    text-align: right;
+    align-items: center;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    height: 50px;
+    background-color: #3C6786;
+    justify-content: center;
+    align-items: center;
+}
