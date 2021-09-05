@@ -3,4 +3,5 @@ Masukan nama kalian di sini:
   <li>Naufal Yukafi Ridlo</li>
   <li>Widiareta Safitri</li>
   <li>Dikhi Achmad Dani</li>
- </ul>
+  <li>Ilham Sinatrio Gumelar</li>
+</ul>
