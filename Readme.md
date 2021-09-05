@@ -3,4 +3,6 @@ Masukan nama kalian di sini:
   <li>Naufal Yukafi Ridlo</li>
   <li>Widiareta Safitri</li>
   <li>Maulana Rosandy</li>
- </ul>
+  <li>Dikhi Achmad Dani</li>
+  <li>Ilham Sinatrio Gumelar</li>
+</ul>
